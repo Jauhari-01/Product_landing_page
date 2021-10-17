@@ -1,0 +1,36 @@
+@media (max-width: 856px) {
+  #header{
+    margin-top: -5vw;
+  }
+  .title {
+    font-size: 4vw;
+  }
+  .extra {
+    padding-top: 12vw;
+  }
+}
+
+
+@media (max-width: 760px){
+  .extra {
+    padding-top: 19vw;
+  }
+}
+
+@media (max-width: 526px){
+  .extra {
+    padding-top: 25vw;
+  }
+}
+
+@media (max-width: 374px){
+  .extra {
+    padding-top: 34vw;
+  }
+}
+
+@media (max-width: 274px){
+  .extra {
+    padding-top: 43vw;
+  }
+}
